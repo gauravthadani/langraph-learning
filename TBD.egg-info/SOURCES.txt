@@ -1,0 +1,6 @@
+setup.py
+TBD.egg-info/PKG-INFO
+TBD.egg-info/SOURCES.txt
+TBD.egg-info/dependency_links.txt
+TBD.egg-info/requires.txt
+TBD.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+
+## Python 
+.venv
+ESS.egg-info
+__pycache__
+
+## Docker volumes
+
+
+.env

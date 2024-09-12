@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: TBD
+Version: 1.0
+Summary: A useful module
+Author: Gaurav Thadani
+Requires-Dist: requests
+Provides-Extra: tests
+Requires-Dist: pytest~=7.4.0; extra == "tests"
+Requires-Dist: coverage; extra == "tests"
+Requires-Dist: flake8; extra == "tests"
+Requires-Dist: black~=23.7.0; extra == "tests"
+Requires-Dist: isort~=5.12.0; extra == "tests"
+Requires-Dist: pytest-cov; extra == "tests"
+Requires-Dist: mypy; extra == "tests"
+Requires-Dist: gitchangelog; extra == "tests"
+Requires-Dist: mkdocs; extra == "tests"
